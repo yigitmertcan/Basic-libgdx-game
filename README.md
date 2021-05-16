@@ -17,6 +17,6 @@ Sdk 29 <br>
 
 Example images:
 
-![alt text](https://github.com/yigitmertcan/Basic-libgdx-game/screen1.png)
+![alt text](screen1.png)
 
-![alt text](https://github.com/yigitmertcan/Basic-libgdx-game/screen2.png)
+![alt text](screen2.png)
